@@ -22,4 +22,4 @@ This project allows users to generate custom amounts of Lorem Ipsum text by spec
 
 ## Live Demo
 
-- [View the live demo here]()
+- [View the live demo here](https://praveen-lorem-generate-app.netlify.app/)
